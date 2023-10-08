@@ -10,7 +10,7 @@ export const Bio = {
 		"Experienced Computer Science graduate with a strong background in software engineering, research, and a diverse skill set. Proficient in multiple programming languages, frameworks, and cloud platforms, with a history of performance of contributing to impactful projects and publications. Strong interpersonal and communication skills, fostering collaboration and knowledge sharing.",
 	github: "https://github.com/dshubham25",
 	resume:
-		"https://drive.google.com/file/d/1P4IeS5N25b1Ktnf71K8yCDCTW5lPJOPK/view?pli=1",
+		"https://drive.google.com/file/d/1sfyho9Dt21e9UkB_mPL1wL2Z8qx1qDO2/view?usp=sharing",
 	linkedin: "https://www.linkedin.com/in/shubham-d-9696438a/",
 	twitter: "https://x.com/ShubhamDikshit2?t=fMq6TFMxNaXHdJjed7Wy0Q&s=08",
 	insta: "https://instagram.com/shubham_dikshit__?igshid=OGQ5ZDc2ODk2ZA==",
